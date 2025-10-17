@@ -49,7 +49,7 @@ const Index = () => {
                   className="bg-gradient-to-r from-primary to-accent text-primary-foreground shadow-[var(--shadow-glow)] hover:opacity-90 transition-all duration-300 hover:scale-105"
                   asChild
                 >
-                  <Link to="/dashboard">Start Learning Free</Link>
+                  <Link to="/learning-path">Try Interactive Demo</Link>
                 </Button>
                 <Button 
                   size="lg" 
