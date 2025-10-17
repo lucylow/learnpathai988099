@@ -17,11 +17,17 @@ const Index = () => {
             <Link to="/" className="text-foreground font-medium">
               Home
             </Link>
-            <Link to="/dashboard" className="text-muted-foreground hover:text-foreground transition-colors">
-              Dashboard
+            <Link to="/learning-path" className="text-muted-foreground hover:text-foreground transition-colors">
+              Demo
             </Link>
-            <Link to="/about" className="text-muted-foreground hover:text-foreground transition-colors">
-              About
+            <Link to="/features" className="text-muted-foreground hover:text-foreground transition-colors">
+              Features
+            </Link>
+            <Link to="/impact" className="text-muted-foreground hover:text-foreground transition-colors">
+              Impact
+            </Link>
+            <Link to="/team" className="text-muted-foreground hover:text-foreground transition-colors">
+              Team
             </Link>
           </nav>
         </div>
